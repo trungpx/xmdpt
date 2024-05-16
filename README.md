@@ -2,22 +2,17 @@
 
 **Authors**: [Trung X. Pham](https://scholar.google.com/citations?user=4DkPIIAAAAAJ&hl=en), [Zhang Kang](https://scholar.google.com/citations?user=nj19btQAAAAJ&hl=en), and Chang D. Yoo.
 
----
 **Framework**
 
----
 **Outputs**
 
----
 **Setup**
 + environment
 + data preparation
 
----
 **Training**
 + run command: 
 
----
 **Inference**
 + run command:
 
@@ -31,5 +26,4 @@
   year={2024}\
 }
 
----
 **Acknowledgements**
