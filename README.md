@@ -3,8 +3,8 @@
 **Author**: [Trung X. Pham](https://scholar.google.com/citations?user=4DkPIIAAAAAJ&hl=en), [Zhang Kang](https://scholar.google.com/citations?user=nj19btQAAAAJ&hl=en), and Chang D. Yoo.
 
 **Setup**
-+ Environment
-+ Data Preparation
++ environment
++ data preparation
 
 **Training**
 + run command: 
