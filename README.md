@@ -13,9 +13,10 @@
 + run command:
 
 **Citations**
-@article{pham2024cross,
-  title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},
-  author={Pham, Trung X and Kang, Zhang and Yoo, Chang D},
-  journal={arXiv preprint arXiv:2402.01516},
-  year={2024}
+
+@article{pham2024cross,\
+  title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},\
+  author={Pham, Trung X and Kang, Zhang and Yoo, Chang D},\
+  journal={arXiv preprint arXiv:2402.01516},\
+  year={2024}\
 }
