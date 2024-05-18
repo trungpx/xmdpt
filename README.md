@@ -16,7 +16,6 @@
 **Inference**
 + run command:
 
----
 **Citation**
 ```
 @article{pham2024cross,
