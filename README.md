@@ -1,4 +1,4 @@
-**Official Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person Image Synthesis](https://arxiv.org/abs/2402.01516), ICML 2024.**
+**Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person Image Synthesis](https://arxiv.org/abs/2402.01516), ICML 2024.**
 
 **Authors**: [Trung X. Pham](https://scholar.google.com/citations?user=4DkPIIAAAAAJ&hl=en), [Zhang Kang](https://scholar.google.com/citations?user=nj19btQAAAAJ&hl=en), and Chang D. Yoo.
 
@@ -18,12 +18,12 @@
 
 ---
 **Citation**
-
-@article{pham2024cross,\
-  title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},\
-  author={Pham, Trung X and Kang, Zhang and Yoo, Chang D},\
-  journal={arXiv preprint arXiv:2402.01516},\
-  year={2024}\
+```
+@article{pham2024cross,
+  title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},
+  author={Pham, Trung X and Kang, Zhang and Yoo, Chang D},
+  journal={arXiv preprint arXiv:2402.01516},
+  year={2024}
 }
-
+```
 **Acknowledgements**
