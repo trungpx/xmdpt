@@ -35,7 +35,7 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 ```
 **Acknowledgements**
 
-This work was supported by the Institute for Information & Communications Technology Planning & Evaluation (IITP) grants funded by the Korean government (MSIT) (No. 2021-0-01381, Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments) and (No. 2022-0-00184, Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics).
+This work was supported by the Institute for Information & Communications Technology Planning & Evaluation (IITP) grants funded by the Korean government (MSIT) (No. 2021-0-01381, _Development of Causal AI through Video Understanding and Reinforcement Learning, and Its Applications to Real Environments_) and (No. 2022-0-00184, _Development and Study of AI Technologies to Inexpensively Conform to Evolving Policy on Ethics_).
 
 **Helpful Repo**
 
