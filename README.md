@@ -6,22 +6,23 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 
 **Framework:**
 ```
+
 ```
 **Output Samples:**
 ```
+
 ```
 **Setup**
 ```
-+ environment
-+ data preparation
+
 ```
 **Training**
 ```
-+ run command: 
+
 ```
 **Inference**
 ```
-+ run command:
+
 ```
 **Citation**
 ```
