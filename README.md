@@ -39,4 +39,4 @@ This work was supported by the Institute for Information & Communications Techno
 
 **Helpful Repo**
 
-This codebase is constructed upon the foundations of [MDT](https://github.com/sail-sg/MDT).
+Thanks [MDT](https://github.com/sail-sg/MDT) and [PIDM](https://github.com/ankanbhunia/PIDM) for sharing their code.
