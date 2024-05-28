@@ -39,4 +39,4 @@ This work was supported by the Institute for Information & Communications Techno
 
 **Helpful Repo**
 
-Thanks [MDT](https://github.com/sail-sg/MDT) and [PIDM](https://github.com/ankanbhunia/PIDM) for sharing their code.
+Thanks nice works of [MDT](https://github.com/sail-sg/MDT) and [PIDM](https://github.com/ankanbhunia/PIDM) for publishing their codes.
