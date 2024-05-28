@@ -39,4 +39,4 @@ This work was supported by the Institute for Information & Communications Techno
 
 **Helpful Repo**
 
-This codebase is constructed upon the foundations of [DiT](https://github.com/facebookresearch/dit) and [MDT](https://github.com/sail-sg/MDT).
+This codebase is constructed upon the foundations of [MDT](https://github.com/sail-sg/MDT).
