@@ -15,7 +15,7 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 
 **Output Samples**
 <p align="center">
-    <img src="figures/qualitative_results.emf" alt="image" width="100%" height="auto">
+    <img src="figures/qualitative_results.png" alt="image" width="100%" height="auto">
 </p>
 
 **Setup**
