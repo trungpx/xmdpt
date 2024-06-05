@@ -6,6 +6,9 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 
 **Framework:**
 [Method](figures/method_xmdpt.png)
+<p align="center">
+    <img src="figures/method_xmdpt.png">
+</p>
 
 **Output Samples:**
 ```
