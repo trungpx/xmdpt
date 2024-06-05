@@ -64,9 +64,17 @@ datasets/
 CUDA_VISIBLE_DEVICES=0 bash run_train.sh
 ```
 **Inference**
+
+_For the test set of Deep Fashion, run the following_
 ```
 CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py
 ```
+
+_For the arbitrary image, run the following_
+```
+CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py --image_path test.png
+```
+
 **Pretrained Models**
 
 All of our models had been trained and tested using a single A100 (80GB) GPU.
