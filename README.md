@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 **Prepare Dataset**
 
-Downloading the DeepFashion dataset and processing it into the lmdb format for easy training and inference. Refer to [PIDM](https://github.com/ankanbhunia/PIDM) for this LMDB.
+Downloading the DeepFashion dataset and processing it into the lmdb format for easy training and inference. Refer to [PIDM (CVPR2023)](https://github.com/ankanbhunia/PIDM) for this LMDB.
 The data structure should be as follows:
 ```
 datasets/
@@ -109,4 +109,4 @@ This work was supported by the Institute for Information & Communications Techno
 
 **Helpful Repo**
 
-Thanks nice works of [MDT](https://github.com/sail-sg/MDT) and [PIDM](https://github.com/ankanbhunia/PIDM) for publishing their codes.
+Thanks nice works of [MDT (ICCV 2023)](https://github.com/sail-sg/MDT) and [PIDM (CVPR 2023)](https://github.com/ankanbhunia/PIDM) for publishing their codes.
