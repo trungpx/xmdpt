@@ -4,6 +4,10 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 
 **Authors**: [Trung X. Pham](https://scholar.google.com/citations?user=4DkPIIAAAAAJ&hl=en), [Zhang Kang](https://scholar.google.com/citations?user=nj19btQAAAAJ&hl=en), and Chang D. Yoo.
 
+**Introduction**
+
+X-MDPT ($\underline{Cross}$-view Masked Diffusion Prediction Transformers) is a novel framework designed for pose-guided human image generation. X-MDPT demonstrates exceptional scalability and performance, significantly improving FID, SSIM, and LPIPS metrics as model size increases. Despite its straightforward design, the framework outperforms state-of-the-art approaches on the DeepFashion dataset, excelling in training efficiency and inference speed. The compact 33MB model achieves an FID of 7.42, surpassing the prior most efficient Unet latent diffusion approach PoCoLD (FID of 8.07) with $11\times$ fewer parameters. The best model surpasses SOTA pixel-based diffusion PIDM with two-thirds of the parameters and achieves $5.43\times$ faster inference.
+
 <p align="center">
     <img src="figures/method_xmdpt.png">
 </p>
