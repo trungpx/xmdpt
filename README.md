@@ -10,7 +10,7 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 
 **Efficiency Advantages**
 <p align="center">
-    <img src="figures/efficiency_advantages.png" alt="image" width="70%" height="auto">
+    <img src="figures/efficiency_advantage.png" alt="image" width="70%" height="auto">
 </p>
 
 **Comparisons with state-of-the-arts**
