@@ -109,4 +109,4 @@ This work was supported by the Institute for Information & Communications Techno
 
 **Helpful Repo**
 
-Thanks nice works of [MDT (ICCV 2023)](https://github.com/sail-sg/MDT) and [PIDM (CVPR 2023)](https://github.com/ankanbhunia/PIDM) for publishing their codes.
+Thanks nice works of [MDT (ICCV2023)](https://github.com/sail-sg/MDT) and [PIDM (CVPR2023)](https://github.com/ankanbhunia/PIDM) for publishing their codes.
