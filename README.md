@@ -68,14 +68,16 @@ CUDA_VISIBLE_DEVICES=0 bash run_train.sh
 CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py
 ```
 **Pretrained Models**
+
+All of our models had been trained using a single A100 (80GB) GPU.
+
 <div align="center">
     
-| **Model** | **Step** | **Resolution** | **FID** | **Params** | **Link** |
-|:---------:|:--------:|:--------------:|:-------:|:----------:|:--------:|
-|  X-MDPT-S |   300k   |     256x256    |   7.42  |    33.5    |          |
-|  X-MDPT-B |   300k   |     256x256    |   6.72  |    131.9   |          |
-|  X-MDPT-L |   300k   |     256x256    |   6.60  |    460.2   |          |
-
+| **Model** | **Step** | **Resolution** | **FID** | **Params** | **Inference Time** | **Link** |
+|:---------:|:--------:|:--------------:|:-------:|:----------:|:------------------:|:--------:|
+|  X-MDPT-S |   300k   |     256x256    |   7.42  |    33.5    |        1.1s        |          |
+|  X-MDPT-B |   300k   |     256x256    |   6.72  |    131.9   |        1.3s        |          |
+|  X-MDPT-L |   300k   |     256x256    |   6.60  |    460.2   |        3.1s        |          |
 </div>
 
 **Citation**
