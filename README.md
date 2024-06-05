@@ -24,9 +24,12 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 </p>
 
 
-**Setup**
+**Setup Environment**
+We have tested with Pytorch 1.12+cuda11.6, using a docker.
 ```
-
+conda create -n xmdpt python=3.8
+conda activate xmdpt
+pip install -r requirements.txt
 ```
 **Training**
 ```
