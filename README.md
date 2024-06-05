@@ -10,7 +10,7 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 
 **Comparisons**
 <p align="center">
-    <img src="figures/efficiency_comparison.png" alt="image" width="50%" height="auto">
+    <img src="figures/efficiency_comparison.png" alt="image" width="70%" height="auto">
 </p>
 
 **Output Samples**
