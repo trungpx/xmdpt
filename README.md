@@ -8,6 +8,11 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
     <img src="figures/method_xmdpt.png">
 </p>
 
+**Efficiency Advantages**
+<p align="center">
+    <img src="figures/efficiency_comparison.png" alt="image" width="70%" height="auto">
+</p>
+
 **Comparisons with state-of-the-arts**
 <p align="center">
     <img src="figures/qualitative_results.png" alt="image" width="100%" height="auto">
@@ -18,10 +23,6 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
     <img src="figures/consistent_targets.png" alt="image" width="100%" height="auto">
 </p>
 
-**Efficiency Comparison**
-<p align="center">
-    <img src="figures/efficiency_comparison.png" alt="image" width="70%" height="auto">
-</p>
 
 **Setup**
 ```
