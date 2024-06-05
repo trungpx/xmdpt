@@ -68,11 +68,13 @@ CUDA_VISIBLE_DEVICES=0 bash run_train.sh
 CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py
 ```
 **Pretrained Models**
+<p align="center">
 | **Model** | **Step** | **Resolution** | **FID** | **Params** | **Link** |
 |:---------:|:--------:|:--------------:|:-------:|:----------:|:--------:|
 |  X-MDPT-S |   300k   |     256x256    |   7.42  |    33.5    |          |
 |  X-MDPT-B |   300k   |     256x256    |   6.72  |    131.9   |          |
 |  X-MDPT-L |   300k   |     256x256    |   6.60  |    460.2   |          |
+</p>
 
 **Citation**
 ```
