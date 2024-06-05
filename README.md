@@ -8,7 +8,7 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
     <img src="figures/method_xmdpt.png">
 </p>
 
-**Comparisons**
+**Comparisons with state-of-the-arts**
 <p align="center">
     <img src="figures/efficiency_comparison.png" alt="image" width="70%" height="auto">
 </p>
