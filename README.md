@@ -32,13 +32,35 @@ conda create -n xmdpt python=3.8
 conda activate xmdpt
 pip install -r requirements.txt
 ```
-**Training**
+**Prepare Dataset**
+
+Downloading the DeepFashion dataset and processing it into the lmdb format for easy training and inference. Refer to [PIDM](https://github.com/ankanbhunia/PIDM) for this LMDB.
+The data structure should be as follows:
+```
+datasets/
+|-- deepfashion
+|   |-- [4.0K]  256-256
+|   |   |-- [8.0K]  lock.mdb
+|   |   `-- [2.4G]  data.mdb
+|   `-- [4.0K]  512-512
+|       |-- [8.0K]  lock.mdb
+|       `-- [8.4G]  data.mdb
+|   `-- [4.0K]  pose
+|       |-- [8.0K]  MEN
+|       `-- [8.4G]  WOMEN
+|   |-- test_pairs.txt
+|   |-- train_pairs.txt
+|   |-- train_lst
+|   |-- test.lst
 ```
 
+**Training**
+```
+CUDA_VISIBLE_DEVICES=0 bash run_train.sh
 ```
 **Inference**
 ```
-
+CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py
 ```
 **Citation**
 ```
