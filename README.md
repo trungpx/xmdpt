@@ -38,20 +38,25 @@ Downloading the DeepFashion dataset and processing it into the lmdb format for e
 The data structure should be as follows:
 ```
 datasets/
-|-- deepfashion
+|-- [  38]  deepfashion
+|   |-- [6.4M]  train_pairs.txt
+|   |-- [2.1M]  train.lst
+|   |-- [817K]  test_pairs.txt
+|   |-- [182K]  test.lst
 |   |-- [4.0K]  256-256
 |   |   |-- [8.0K]  lock.mdb
 |   |   `-- [2.4G]  data.mdb
+|   |-- [8.7M]  pose.rar
 |   `-- [4.0K]  512-512
 |       |-- [8.0K]  lock.mdb
 |       `-- [8.4G]  data.mdb
-|   `-- [4.0K]  pose
-|       |-- [8.0K]  MEN
-|       `-- [8.4G]  WOMEN
-|   |-- test_pairs.txt
-|   |-- train_pairs.txt
-|   |-- train_lst
-|   |-- test.lst
+|   |-- [4.0K]  pose
+|   |   |-- [4.0K]  WOMEN
+|   |   |   |-- [ 12K]  Shorts
+|   |   |   |   |-- [4.0K]  id_00007890
+|   |   |   |   |   |-- [ 900]  04_4_full.txt
+|   |   |-- [4.0K]  MEN
+...
 ```
 
 **Training**
