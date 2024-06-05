@@ -5,11 +5,7 @@ Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person I
 **Authors**: [Trung X. Pham](https://scholar.google.com/citations?user=4DkPIIAAAAAJ&hl=en), [Zhang Kang](https://scholar.google.com/citations?user=nj19btQAAAAJ&hl=en), and Chang D. Yoo.
 
 **Framework:**
-```
-<p align="center">
-    [Method](figures/method_xmdpt.png)
-</p>
-```
+[Method](figures/method_xmdpt.png)
 **Output Samples:**
 ```
 
