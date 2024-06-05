@@ -69,7 +69,7 @@ CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py
 ```
 **Pretrained Models**
 
-All of our models had been trained using a single A100 (80GB) GPU.
+All of our models had been trained and tested using a single A100 (80GB) GPU.
 
 <div align="center">
     
