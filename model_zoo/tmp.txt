@@ -1,1 +1,1 @@
-
+download checkpoint of VAE to put here
