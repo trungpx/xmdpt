@@ -102,6 +102,12 @@ All of our models had been trained and tested using a single A100 (80GB) GPU.
 
 </div>
 
+**Expected Outputs**
+<p align="center">
+    <img src="figures/samples_xmdpt.png" alt="image" width="100%" height="auto">
+</p>
+
+
 **Citation**
 ```
 @article{pham2024cross,
