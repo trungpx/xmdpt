@@ -1,4 +1,4 @@
-[Planned to release in June 2024]
+[Planned to release in July 2024]
 
 Pytorch Implementation of [Cross-view Masked Diffusion Transformers for Person Image Synthesis](https://arxiv.org/abs/2402.01516), ICML 2024.
 
