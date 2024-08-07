@@ -69,14 +69,20 @@ datasets/
 ```
 CUDA_VISIBLE_DEVICES=0 bash run_train.sh
 ```
+By default, it will save checkpoints for every 10k steps. You can use that for inference as below.
+
 **Inference**
+
+Download all checkpoints and VAE finetuned put into the correct place as in default file infer_xmdpt.py.
 
 _For the test set of Deep Fashion, run the following_
 ```
 CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py
 ```
 
-_For the arbitrary image, run the following_
+It will save the output image samples as in test_img of this repo.
+
+_For the arbitrary image, run the following (not implemented)_
 ```
 CUDA_VISIBLE_DEVICES=0 infer_xmdpt.py --image_path test.png
 ```
