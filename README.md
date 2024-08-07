@@ -110,11 +110,12 @@ All of our models had been trained and tested using a single A100 (80GB) GPU.
 
 **Citation**
 ```
-@article{pham2024cross,
-  title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},
-  author={Pham, Trung X and Kang, Zhang and Yoo, Chang D},
-  journal={arXiv preprint arXiv:2402.01516},
-  year={2024}
+@inproceedings{pham2024crossview,
+title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},
+author={Trung X. Pham and Kang Zhang and Chang D. Yoo},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=jEoIkNkqyc}
 }
 ```
 **Acknowledgements**
