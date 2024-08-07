@@ -1,4 +1,4 @@
-Updated 2024/08/08. Code released.
+[Updated 2024/08/08]. Code released.
 
 [Planned to release in July 2024]
 
