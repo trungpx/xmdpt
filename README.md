@@ -90,7 +90,7 @@ All of our models had been trained and tested using a single A100 (80GB) GPU.
 |      **Model**     | **Step** | **Resolution** | **FID** | **Params** | **Inference Time** | **Link** |
 |:------------------:|:--------:|:--------------:|:-------:|:----------:|:------------------:|:--------:|
 |      X-MDPT-S      |   300k   |     256x256    |   7.42  |    33.5M   |        1.1s        |   [Link](https://drive.google.com/file/d/1loztAzrL6sQI7rarwb_x2233ZwNTVlvD/view?usp=sharing)   |
-|      X-MDPT-B      |   300k   |     256x256    |   6.72  |    131.9M  |        1.3s        |   todo   |
+|      X-MDPT-B      |   300k   |     256x256    |   6.72  |    131.9M  |        1.3s        |   [Link](https://drive.google.com/file/d/1nNPWGhvRZVwjBMfgilbgZNdcn1I1DUgH/view?usp=sharing)   |
 |      X-MDPT-L      |   300k   |     256x256    |   6.60  |    460.2M  |        3.1s        |   todo   |
 |         VAE        |   -   |     -    |   -  |    -  |        -        |      [Link](https://drive.google.com/file/d/1zjoCLuJV-_d-pq7f_N0vZXppUkq8LTP0/view?usp=sharing)    |
 
