@@ -73,7 +73,7 @@ By default, it will save checkpoints for every 10k steps. You can use that for i
 
 **Inference**
 
-Download all checkpoints and VAE finetuned put into the correct place as in default file infer_xmdpt.py.
+Download all checkpoints and VAE (fine-tuned only decoder) and put them into the correct place as in the default file infer_xmdpt.py.
 
 _For the test set of Deep Fashion, run the following_
 ```
