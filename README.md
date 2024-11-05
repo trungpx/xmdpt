@@ -109,6 +109,7 @@ All of our models had been trained and tested using a single A100 (80GB) GPU.
 
 
 **Citation**
+If X-MDPT is useful or relevant to your research, please kindly recognize our contributions by citing our papers:
 ```
 @inproceedings{pham2024crossview,
 title={Cross-view Masked Diffusion Transformers for Person Image Synthesis},
